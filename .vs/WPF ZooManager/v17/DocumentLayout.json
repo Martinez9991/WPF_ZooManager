@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\wpf zoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|solutionrelative:wpf zoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|c:\\users\\gilma\\source\\repos\\wpf zoomanager\\wpf zoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|solutionrelative:wpf zoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\wpf zoomanager\\testdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{BCE43636-8727-41C7-A5F6-6A342EF321EA}|WPF ZooManager\\WPF ZooManager.csproj|solutionrelative:wpf zoomanager\\testdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDBDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\TestDBDataSet.xsd",
+              "RelativeDocumentMoniker": "WPF ZooManager\\TestDBDataSet.xsd",
+              "ToolTip": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\TestDBDataSet.xsd",
+              "RelativeToolTip": "WPF ZooManager\\TestDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-02T15:21:19.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF ZooManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF ZooManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwFAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:18:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF ZooManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gilma\\source\\repos\\WPF ZooManager\\WPF ZooManager\\MainWindow.xaml",
+              "RelativeToolTip": "WPF ZooManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T15:18:42.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
